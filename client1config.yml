@@ -1,1 +1,8 @@
-name: client1
+cName: 'client 1'
+tracer.property: 'I AM THE DEFAULT'
+spring.jpa.database: 'POSTGRESQL'
+spring.datasource.platform: 'postgres'
+spring.jpa.show-sql: 'true'
+spring.database.driverClassName: 'org.postgresql.Driver'
+spring.datasource.url: 'jdbc:postgresql://database:5432/eagle_eye_local'
+spring.datasource.username: 'postgres'
