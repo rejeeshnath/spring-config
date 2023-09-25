@@ -1,2 +1,2 @@
-server:
-   port: local
+server1:
+   port1: local

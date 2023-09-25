@@ -1,2 +1,2 @@
-server:
-   port: prod
+server1:
+   port1: prod
