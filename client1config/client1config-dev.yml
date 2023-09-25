@@ -1,4 +1,4 @@
-cName: 'client default local'
+cName: 'client dev'
 tracer.property: 'I AM THE DEFAULT'
 spring.jpa.database: 'POSTGRESQL'
 spring.datasource.platform: 'postgres'
